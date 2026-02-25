@@ -112,6 +112,7 @@ plt.show()
 ```    
 
 ## Output:
+![alt text](image.png)
 ![alt text](<out 5.jpeg>) 
 ![alt text](<out 5 2.jpeg>)
 
